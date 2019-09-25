@@ -344,7 +344,7 @@ always @(posedge PCLK) begin
 		  1: begin HBLK <= 0; hcnt <= hcnt+1; end
 		290: begin HBLK <= 1; hcnt <= hcnt+1; end
 		311: begin HSYN <= 0; hcnt <= hcnt+1; end
-		342: begin HSYN <= 1; hcnt <= 470;    end
+		342: begin HSYN <= 1; hcnt <= 471;    end
 		511: begin hcnt <= 0;
 			case (vcnt)
 				223: begin VBLK <= 1; vcnt <= vcnt+1; end
