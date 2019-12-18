@@ -1,3 +1,5 @@
+(This is old. The latest code is in the MiSTer official repository.)
+
 ---------------------------------------------------------------------------------
 -- 
 -- Arcade: The Tower of Druaga  port to MiSTer by MiSTer-X
